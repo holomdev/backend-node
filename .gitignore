@@ -170,3 +170,5 @@ $RECYCLE.BIN/
 
 movie-api/node_modules/*
 movie-api/.eslintcache
+movie-api/.env
+movie-api/package-lock.json
