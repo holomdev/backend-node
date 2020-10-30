@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "SET DEBUG=app:* & nodemon index",
-    "start": "SET NODE_ENV=production & node index"
+    "dev": "SET DEBUG=app:* && SET NODE_ENV=dev && nodemon index",
+    "start": "SET NODE_ENV=production && node index"
   },
   "keywords": [],
   "author": "",
