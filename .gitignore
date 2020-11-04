@@ -172,3 +172,5 @@ movie-api/node_modules/*
 movie-api/.eslintcache
 movie-api/.env
 movie-api/package-lock.json
+movie-api/.nyc_output/*
+movie-api/coverage/*
